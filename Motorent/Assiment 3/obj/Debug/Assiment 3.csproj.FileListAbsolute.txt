@@ -1,0 +1,9 @@
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\Assiment 3\Assiment 3\bin\Debug\Assiment 3.exe.config
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\Assiment 3\Assiment 3\obj\Debug\Assiment 3.csprojResolveAssemblyReference.cache
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\Assiment 3\Assiment 3\obj\Debug\Assiment_3.Form1.resources
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\Assiment 3\Assiment 3\obj\Debug\Assiment_3.Properties.Resources.resources
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\Assiment 3\Assiment 3\obj\Debug\Assiment 3.csproj.GenerateResource.Cache
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\Assiment 3\Assiment 3\bin\Debug\Assiment 3.exe
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\Assiment 3\Assiment 3\bin\Debug\Assiment 3.pdb
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\Assiment 3\Assiment 3\obj\Debug\Assiment 3.exe
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\Assiment 3\Assiment 3\obj\Debug\Assiment 3.pdb
