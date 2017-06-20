@@ -1,0 +1,14 @@
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.deps.json
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.runtimeconfig.json
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.runtimeconfig.dev.json
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.dll
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\bin\Debug\netcoreapp1.1\UnitTest.pdb
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\bin\Debug\netcoreapp1.1\Modals.dll
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\bin\Debug\netcoreapp1.1\Modals.pdb
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\obj\Debug\netcoreapp1.1\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\obj\Debug\netcoreapp1.1\UnitTest.AssemblyInfo.cs
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\obj\Debug\netcoreapp1.1\UnitTest.dll
+C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\UnitTest\obj\Debug\netcoreapp1.1\UnitTest.pdb
