@@ -1,0 +1,10 @@
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\UnitTestGitHub\bin\Debug\UnitTestGitHub.dll
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\UnitTestGitHub\bin\Debug\UnitTestGitHub.pdb
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\UnitTestGitHub\bin\Debug\Assiment 3.exe
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\UnitTestGitHub\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\UnitTestGitHub\bin\Debug\Modals.dll
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\UnitTestGitHub\bin\Debug\Assiment 3.pdb
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\UnitTestGitHub\bin\Debug\Modals.pdb
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\UnitTestGitHub\obj\Debug\UnitTestGitHub.csprojResolveAssemblyReference.cache
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\UnitTestGitHub\obj\Debug\UnitTestGitHub.dll
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\UnitTestGitHub\obj\Debug\UnitTestGitHub.pdb

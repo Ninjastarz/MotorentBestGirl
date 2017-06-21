@@ -18,3 +18,8 @@ C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessme
 C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\Modals\obj\Debug\Modals.csprojResolveAssemblyReference.cache
 C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\Modals\obj\Debug\Modals.dll
 C:\Users\levi4\TAFE\OneDrive - TAFE\Assessments\Open source and testing\Assessment 3 - Final Project\MotorentBestGirl-master\Motorent\Modals\obj\Debug\Modals.pdb
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\Modals\bin\Debug\Modals.dll
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\Modals\bin\Debug\Modals.pdb
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\Modals\obj\Debug\Modals.csprojResolveAssemblyReference.cache
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\Modals\obj\Debug\Modals.dll
+E:\cert 4\Open Sorce testing cluster\Assesments\assment 3\MotorentBestGirl-master\MotorentBestGirl-master\MotorentBestGirl-master\Motorent\Modals\obj\Debug\Modals.pdb

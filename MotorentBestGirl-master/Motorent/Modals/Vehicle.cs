@@ -17,7 +17,13 @@ namespace Modals
         public bool NeedService;
         public int ServiceCount;
         public int KilometersTraveledSinceService;
-        public Vehicle() { }
+
+        public Vehicle( int pfuel, float pkms_travel)
+        {
+            TotalFuelPurchased = pfuel;
+            KilometersTraveled = pkms_travel;
+
+        }
         public Vehicle(string manufacturer, string model, int year, string registrationNo)
         {
             Manufacturer = manufacturer;
@@ -42,16 +48,18 @@ namespace Modals
         }
 
         //calculates the fuel economy;
-        public void CalcFuelEconomy()
+        public double CalcFuelEconomy()
         {
             if (TotalFuelPurchased == 0)
             {
                 FuelEconomy = "No Fuel Bought";
+                return 0;
             }
             else
             {
                 double kperl = (KilometersTraveled / TotalFuelPurchased);
                 FuelEconomy = $"{kperl}km/L";
+                return kperl;
             }
         }
 
